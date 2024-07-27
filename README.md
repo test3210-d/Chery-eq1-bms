@@ -1,7 +1,9 @@
 Дослідження роботи бмс та фреймів які бігають в кан шині 
 
 voltage frames
-ID       DLC Data                     
+
+ID        DLC       Data                     
+
 541      8   10 C1 10 B3 10 B6 10 B3 
 
 542      8   10 B6 10 BE 10 B0 10 BE 
